@@ -1,4 +1,4 @@
-# MOOC Python Programming 2022 Part 1
+# MOOC Python Programming 2023 Part 1
 
 I am just beginning my journey into programming through the University of Helsinki's online course (MOOC).
 
