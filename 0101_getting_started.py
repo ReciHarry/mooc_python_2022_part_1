@@ -1,5 +1,10 @@
 # This section will mostly consist of very basic print exercises.
 
+# Learning Objectives
+# You will have written and executed your first Python program
+# You will know how to use the print command
+# You will be able to use programming for arithmetic operations
+
 # Programming exercise: Emoticon
 # Please write a program which prints out an emoticon: :-)
 
